@@ -1,0 +1,7 @@
+# codex实训项目主程序
+def hello_codex():
+    print("codex实训项目运行成功")
+    print("实训人：hms 软件24-2")
+
+if __name__ == "__main__":
+    hello_codex()
